@@ -12,4 +12,4 @@ function deg2rad(deg) {
     return deg * (Math.PI / 180);
 }
 
-console.log(getLatLonDist(-17.645820, -63.336103, -17.940226, -62.999360));
+console.log(getLatLonDist(-17.645820, -63.336103, -17.644973, -63.141274));
